@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/pocake/src/Template/Layout/default.ctp</file>
+            <file>file:/C:/xampp/htdocs/pocake/config/Migrations/20170614200321_createbookmar_seed_migration.php</file>
+            <file>file:/C:/xampp/htdocs/pocake/src/Controller/AppController.php</file>
+            <file>file:/C:/xampp/htdocs/pocake/src/Template/Users/add.ctp</file>
+            <file>file:/C:/xampp/htdocs/pocake/src/Template/Users/home.ctp</file>
+            <file>file:/C:/xampp/htdocs/pocake/src/Controller/UsersController.php</file>
+            <file>file:/C:/xampp/htdocs/pocake/src/Template/Users/login.ctp</file>
+            <file>file:/C:/xampp/htdocs/pocake/src/Template/Users/index.ctp</file>
+            <file>file:/C:/xampp/htdocs/pocake/src/Template/Element/menu.ctp</file>
+        </group>
+    </open-files>
+</project-private>
